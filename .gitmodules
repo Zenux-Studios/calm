@@ -1,0 +1,9 @@
+[submodule "calm-mobile"]
+	path = calm-mobile
+	url = https://github.com/Zenux-Studios/calm-mobile
+[submodule "calm-landing-page"]
+	path = calm-landing-page
+	url = https://github.com/Zenux-Studios/calm-landing-page
+[submodule "calm-backend"]
+	path = calm-backend
+	url = https://github.com/Zenux-Studios/calm-backend
